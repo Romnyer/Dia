@@ -274,7 +274,7 @@
   margin: 0;
   list-style-type: none;
 
-  rtate: 90deg;
+  rotate: 90deg;
   display: flex;
   justify-content: space-between;
   align-items: center;
