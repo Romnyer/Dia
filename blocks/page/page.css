@@ -1,6 +1,16 @@
+@font-face {
+  src: url(../../fonts/Mulish/Mulish.ttf) format('ttf');
+  font-family: 'Mulish';
+}
+
 .page {
-  max-width: 1600px;
-  position: relative;
+  width: 1600px;
+  padding: 0;
+  margin: 0 auto;
   background: #fcfcfd;
-  left: 700px;
+
+  font-family: 'Mulish';
+  font-style: normal;
+  text-decoration: none;
+  color: black;
 }
