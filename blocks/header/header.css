@@ -248,12 +248,6 @@
   rotate: -45deg;
 }
 
-.header__vector-link {
-  width: 32px;
-  height: 32px;
-  background: white;
-}
-
 .header__intro-text {
   position: absolute;
   bottom: 86px;
